@@ -1,6 +1,5 @@
 # CPPTraining
-
-### cpp-training-for-xl-shell
+(for XL Shell)
 
 이 프로젝트는 **XL Shell**을 본격적으로 구현하기에 앞서,  
 **중급 C++ 핵심 기술 20가지**를 탐구하고 구조적으로 정리하기 위한 준비 프로젝트입니다.
@@ -54,7 +53,7 @@
 ## 📁 프로젝트 구조
 
 ```
-cpp-training-for-xl-shell/
+CPPTraining
 ├── topics/
 │   ├── 01_smart_pointer.md
 │   ├── 02_raii.md
